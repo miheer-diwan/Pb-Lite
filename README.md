@@ -1,5 +1,5 @@
 # Pb-Lite
-Per-Pixel Probabilistic Boundary Detection Algorithm
+Per-Pixel Probability of Boundary Detection Algorithm
 
 Please refer the [Report](Report.pdf) for implementation details and explanation.
 
